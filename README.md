@@ -1,6 +1,6 @@
-#firebird-api
+# firebird-api
 
-Aqui está uma representação em linguagem Mermaid para os diagramas solicitados:
+__Aqui está uma representação em linguagem Mermaid para os diagramas solicitados:__
 
 ### Diagrama de Casos de Uso
 
